@@ -1,5 +1,5 @@
 # Exploratory-Data-Analysis-of-Movie-Reviews
-![Movie_Review_Image](image_url_or_path)
+![Movie_Review_Image](https://github.com/timothyakintayo/Exploratory-Data-Analysis-of-Movie-Reviews/blob/main/premium_photo-1663099896830-e8f9f806af66.avif)
 #### This notebook contains a step-by-step analysis of of movie reviews dataset using pandas, seaborn, and numpy.
 To run it locally:
 - Install Python 3.10+
